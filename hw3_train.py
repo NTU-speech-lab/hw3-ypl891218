@@ -8,7 +8,6 @@ import torch.nn as nn
 import torchvision.transforms as transforms
 import pandas as pd
 from torch.utils.data import DataLoader, Dataset
-from sklearn.metrics import confusion_matrix
 import time
 
 np.random.seed(7)
