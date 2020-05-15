@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 predict.py $1 $2
+python3 hw3_predict.py $1 $2
